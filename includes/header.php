@@ -8,9 +8,9 @@
     <!-- Titre -->
     <title>AutoWheel :: Accueil</title>
     <!-- Details -->
-    <meta name="description" content="AutoWheel, fondé en 2017, est une structure permettant à toute personne d'obtenir le permis de son choix à prix raisonnable !">
-    <meta name="keywords" content="auto ecole, autoecole, autowheel, auto, wheel, apprentissage" />
-    <meta name="author" content="Thoé Huchard & Baptiste Vasseur" />
+    <meta name="description" content="AutoWheel, fondé en 2017, est une structure permettant à toute personne d'obtenir le permis de son choix à prix raisonnable ! (Projet Auto Ecole)">
+    <meta name="keywords" content="auto ecole, autowheel, auto, wheel, apprentissage" />
+    <meta name="author" content="Théo Huchard & Baptiste Vasseur" />
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="img/icon-short.ico">
     <!-- CSS -->
