@@ -1,3 +1,4 @@
+<!-- Inscription -->
 <div class="container-fluid bgc-white mt-3 mb-3" id="register-form">
     <section class="container">
 		<div class="container-page">				

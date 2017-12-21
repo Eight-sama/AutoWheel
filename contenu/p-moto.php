@@ -1,3 +1,4 @@
+<!-- Scooter / moto -->
 <div class="container-mc text-center tc-white">
     <div class="col-md-12 text-licence-props">
 	    <h2 class="animated fadeInRight"><b>Formations scooter/moto </b></h2>

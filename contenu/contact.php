@@ -1,3 +1,4 @@
+<!-- Contact -->
 <section class="row bgc-white mt-3 mb-3" id="contact-form">
     <div class="container bgc-lwhite br-5">
         <div class="row text-center">

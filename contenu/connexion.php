@@ -1,3 +1,4 @@
+<!-- Connexion -->
 <section class="row">
 <div class="container bgc-lwhite mt-3 mb-3 br-5" id="connexion-panel">
   <div class="col-md-4 col-md-offset-4">
